@@ -1,1 +1,1 @@
-# Calculator-App
+# **Small Calculator**
